@@ -6,7 +6,7 @@ Código mínimo cliente/servidor para elegir un archivo en un cliente web  vanil
 
 ## 1. Instalar dependencias
 ```
-npm insatll
+npm install
 ```
 
 ## 2. Ejecutar aplicación
