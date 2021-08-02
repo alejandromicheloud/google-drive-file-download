@@ -1,10 +1,10 @@
 
 ## Resumen
-Código mínimo cliente/servidor para elegir un archivo en un cliente web  vanilla javascript y descargarla desde el servidor con Node.js
+Utilizando Google Drive Picker para realizar elegir archivos desde el servicio de Google Drive y descargarlos en el servidor.
 
-** El código es una prueba de concepto mínima
+Código mínimo cliente/servidor, es una prueba de concepto minimalista, utiliza vanilla javascript en el cliente y node.js en el servidor.
 
-## 1. Instalar dependencias
+## 1. Instalación de dependencias
 ```
 npm install
 ```
